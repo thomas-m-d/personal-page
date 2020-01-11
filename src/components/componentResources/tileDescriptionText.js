@@ -95,7 +95,7 @@ export const KNOWABILITY = (
 );
 export const LINUX = (
   <p className="tileImgDescriptionP">
-    Technologies Used: BASH, Emacs, Vim, Linux
+    Technologies Used: Linux, BASH, Elisp, Vimscript
     <br />
     <br />
     Various coding odds and ends (BASH scripts, Emacs/Vim configs, SystemD
@@ -132,7 +132,7 @@ export const PEIRCE = (
 );
 export const POLISH = (
   <p className="tileImgDescriptionP">
-    Technologies Used: React, JavaScript, SASS/SCSS
+    Technologies Used: React, Redux, JavaScript, SASS/SCSS
     <br />
     <br />
     Outgrowth of FreeCodeCamp's JavaScript Calculator assignment, expanded to
